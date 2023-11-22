@@ -30,11 +30,17 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/part3-deploy-function-1.png)
 
-![](images/part3/part3-deploy-function-2.png)
+![](images/part3/part3-deploy-function-2.png)  
+
+Aqui podemos ver la aplicacion desplegada  
+<img width="617" alt="image" src="https://github.com/juliamejia/ARSW_LOAD-BALANCING_AZURE_II/assets/98657146/20088259-eafa-44b3-88d2-fbdbdf1f7b37">
+
 
 4. Dirijase al portal de Azure y pruebe la function.
-
 ![](images/part3/part3-test-function.png)
+
+<img width="609" alt="image" src="https://github.com/juliamejia/ARSW_LOAD-BALANCING_AZURE_II/assets/98657146/687c7e50-94de-40c7-963f-97b9574fd3f0">
+
 
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
 
